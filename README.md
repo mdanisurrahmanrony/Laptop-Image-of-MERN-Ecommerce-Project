@@ -1,1 +1,1 @@
-# Laptop image of MERN ecommerce project
+# Laptop images of MERN ecommerce project
